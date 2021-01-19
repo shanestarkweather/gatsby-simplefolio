@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'meBW.png',
   paragraphOne: `I am a full stack software engineer. I have a background in which the only way to survive was to figure things out with the resources at hand, and not always necessarily with any budget. That has created in me a strong sense of how to succeed despite not always having tools, but the ability and desire to find and use the needed tools. That background, in management in my family’s business, made me aware of all the working pieces of teams and business affording me a more complete picture in many situations and challenges.`,
   paragraphTwo: ' ',
   paragraphThree: ' ',
